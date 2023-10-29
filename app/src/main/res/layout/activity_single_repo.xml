@@ -84,7 +84,7 @@
         android:id="@+id/tvReadmeTitle"
         android:layout_gravity="center"
         android:text="ReadMe"
-        android:textColor="@color/black"
+        android:textColor="#9FA8DA"
         android:textSize="20sp"
         android:textStyle="bold"
         android:paddingTop="10dp"
