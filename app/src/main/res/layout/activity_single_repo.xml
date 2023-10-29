@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Background -->
+    <ImageView
+        android:id="@+id/ivBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        />
+
+    <!-- Header -->
+    <LinearLayout
+        android:id="@+id/header"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/header_gradient"
+        android:elevation="4dp"
+        android:padding="16dp">
+
+        <!-- Repository Owner Avatar -->
+        <ImageView
+            android:id="@+id/ivRepoOwner"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/repos" />
+
+        <!-- Repository Name and Owner Name -->
+        <TextView
+            android:id="@+id/tvRepoName"
+            android:text="Repository Name"
+            android:textSize="24sp"
+            android:textColor="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:id="@+id/tvOwnerName"
+            android:text="Owner Name"
+            android:textSize="16sp"
+            android:textColor="#99FFFFFF"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <!-- Star Count -->
+    <LinearLayout
+        android:id="@+id/star_count"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/header"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/rounded_rectangle"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/tvStarCount"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-condensed" />
+
+        <TextView
+            android:id="@+id/tvStarCountLabel"
+            android:text="Star Count"
+            android:textSize="14sp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-condensed" />
+    </LinearLayout>
+
+    <!-- Readme Title -->
+    <TextView
+        android:id="@+id/tvReadmeTitle"
+        android:layout_gravity="center"
+        android:text="ReadMe"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingTop="10dp"
+        android:paddingLeft="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/star_count" />
+
+    <!-- Readme Content -->
+    <TextView
+        android:id="@+id/tvReadme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvReadmeTitle"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:textSize="16sp" />
+
+    <!-- Button to Open GitHub Repository -->
+    <Button
+        android:id="@+id/btnOpenGitHub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Open on GitHub"
+        android:layout_below="@id/tvReadme"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp" />
+</RelativeLayout>
