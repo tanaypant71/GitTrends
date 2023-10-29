@@ -3,7 +3,7 @@ package com.example.gittrends
 data class Repos(
 	val totalCount: Int? = null,
 	val incompleteResults: Boolean? = null,
-	val items: List<ItemsItem?>? = null
+	val items: List<ItemsItem?>? = null	// List of repository items
 )
 
 data class Owner(
@@ -27,6 +27,8 @@ data class Owner(
 	val organizationsUrl: String? = null
 )
 
+
+//These are the properties of the Repository
 data class ItemsItem(
 	val allowForking: Boolean? = null,
 	val stargazersCount: Int? = null,
