@@ -31,6 +31,10 @@ Kotlin Coroutines are employed for managing asynchronous tasks, especially for n
 
 This app follows a MVP architecture.
 
+### 6. APK File
+
+https://drive.google.com/file/d/11CMYSv0PuDUEqvgIbTN0vUw7wzWeD5bx/view?usp=drive_link
+
 
 
 
