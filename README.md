@@ -38,11 +38,13 @@ https://drive.google.com/file/d/11CMYSv0PuDUEqvgIbTN0vUw7wzWeD5bx/view?usp=drive
 
 
 
-https://github.com/tanaypant71/GitTrends/assets/80039257/b331787e-ca5f-4d6e-9aa7-50ee4cfa46b9
+https://github.com/tanaypant71/GitTrends/assets/80039257/ba537d01-89a9-4cb4-b4ad-64e89d0c6261
 
 
 
-https://github.com/tanaypant71/GitTrends/assets/80039257/743c1df5-688c-4f56-ab9c-f875c40d90b4
+https://github.com/tanaypant71/GitTrends/assets/80039257/79276ec5-b747-4165-a32b-3228659c0042
+
+
 
 
 
