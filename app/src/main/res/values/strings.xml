@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">GitTrends</string>
     <string name="my_repo">My Repo</string>
+    <string name="search_repositories">Search Repositories</string>
 </resources>

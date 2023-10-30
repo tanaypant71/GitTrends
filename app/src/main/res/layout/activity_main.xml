@@ -14,7 +14,7 @@
         android:id="@+id/etSearch"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Search Repositories"
+        android:hint="@string/search_repositories"
         android:inputType="text"
         android:layout_margin="16dp"
         android:drawableStart="@drawable/search"
