@@ -63,4 +63,7 @@ dependencies {
 // glide
     implementation("com.github.bumptech.glide:glide:4.13.2")
     implementation("com.github.bumptech.glide:glide:4.13.2")
+
+    testImplementation("com.google.truth:truth:1.0.1")
+    androidTestImplementation("com.google.truth:truth:1.0.1")
 }
