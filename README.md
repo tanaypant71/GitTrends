@@ -29,34 +29,18 @@ Kotlin Coroutines are employed for managing asynchronous tasks, especially for n
 
 ### 5. Android Architecture
 
-While the code does not strictly adhere to a specific architecture pattern, it follows best practices to keep UI and data logic separate, promoting maintainability.
-
-## Installation
-
-1. Clone the repository to your local machine using `git clone`.
-2. Open the project in Android Studio.
-3. Build and run the application on an Android emulator or device.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This code follows a MVP architecture.
 
 
 
 
-https://github.com/tanaypant71/GitTrends/assets/80039257/ef06a413-4742-4c17-bf66-9140ab19381b
+https://github.com/tanaypant71/GitTrends/assets/80039257/b331787e-ca5f-4d6e-9aa7-50ee4cfa46b9
 
 
 
-https://github.com/tanaypant71/GitTrends/assets/80039257/7805e2d0-33a1-479f-a6f7-d4f173285971
+https://github.com/tanaypant71/GitTrends/assets/80039257/743c1df5-688c-4f56-ab9c-f875c40d90b4
 
-![Screenshot_20231030-132515_GitTrends](https://github.com/tanaypant71/GitTrends/assets/80039257/4b568fdc-e40f-40fe-b935-d6bea24eeb17)
-![Screenshot_20231030-132454_GitTrends](https://github.com/tanaypant71/GitTrends/assets/80039257/073d639f-9b3f-4082-a137-f74ee9277726)
-![Screenshot_20231030-132447_GitTrends](https://github.com/tanaypant71/GitTrends/assets/80039257/cd610ee4-f364-4bb2-b941-fe1198ebbbed)
+
 
 
 ## Acknowledgments
