@@ -45,6 +45,20 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+
+
+https://github.com/tanaypant71/GitTrends/assets/80039257/ef06a413-4742-4c17-bf66-9140ab19381b
+
+
+
+https://github.com/tanaypant71/GitTrends/assets/80039257/7805e2d0-33a1-479f-a6f7-d4f173285971
+
+![Screenshot_20231030-132515_GitTrends](https://github.com/tanaypant71/GitTrends/assets/80039257/4b568fdc-e40f-40fe-b935-d6bea24eeb17)
+![Screenshot_20231030-132454_GitTrends](https://github.com/tanaypant71/GitTrends/assets/80039257/073d639f-9b3f-4082-a137-f74ee9277726)
+![Screenshot_20231030-132447_GitTrends](https://github.com/tanaypant71/GitTrends/assets/80039257/cd610ee4-f364-4bb2-b941-fe1198ebbbed)
+
+
 ## Acknowledgments
 
 - This project makes use of the [Retrofit](https://square.github.io/retrofit/) library for making network requests.
